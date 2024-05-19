@@ -180,9 +180,9 @@ AssetNexus empowers organizations across industries to optimize their digital as
 <!-- CONTACT -->
 ## Contact
 
-Gautam Sajwan - [@LinkedIn](https://www.linkedin.com/in/gautam-sajwan-b44179217/) - gautamsajwan8126@gmail.com
+Gautam Sajwan - [@LinkedIn](https://linkedin.com/in/ankit000/) - ankipundir090@gmail.com
 <br/>
-Project Link: [https://github.com/your_username/repo_name](https://github.com/Gautamsajwan/AssetNexus)
+Project Link: [https://github.com/Ankit0-0/AssetNexus](https://github.com/Ankit0-0/AssetNexus)
 
 
 
